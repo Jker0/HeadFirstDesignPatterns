@@ -1,6 +1,4 @@
-﻿
-
-namespace Strategy
+﻿namespace Strategy.Fly
 {
     internal interface IFlyBehavior
     {
